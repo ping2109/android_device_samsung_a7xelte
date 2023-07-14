@@ -26,4 +26,4 @@ export LZMA_RAMDISK_TARGETS="recovery"
 
 # Build Time
 source build/envsetup.sh
-lunch twrp_a7xelte-eng
+lunch omni_a7xelte-eng
