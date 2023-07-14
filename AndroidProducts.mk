@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_a7xelte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_a7xelte.mk

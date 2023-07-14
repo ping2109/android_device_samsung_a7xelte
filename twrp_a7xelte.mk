@@ -13,6 +13,6 @@ PRODUCT_PACKAGES += \
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := a7xelte
-PRODUCT_NAME := omni_a7xelte
+PRODUCT_NAME := twrp_a7xelte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
