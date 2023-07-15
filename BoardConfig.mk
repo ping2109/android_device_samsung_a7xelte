@@ -6,4 +6,5 @@ TARGET_KERNEL_CONFIG := lineageos_a7xelte_defconfig
 #BOARD_MKBOOTIMG_ARGS += --dt device/samsung/a7xelte/prebuilt/dt.img --board SRPOJ08A000KU
 
 BOARD_KERNEL_SEPARATED_DT := true
+BOARD_VENDOR := samsung
 TARGET_CUSTOM_DTBTOOL := dtbhtoolExynos
